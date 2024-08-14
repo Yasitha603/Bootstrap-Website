@@ -1,1 +1,3 @@
-# Bootstrap-Website
+# Movie-Boot
+- "A responsive web project fully built with Bootstrap, showcasing a clean and modern design. This project demonstrates the use of Bootstrap’s grid system, components, and utilities to create a user-friendly and mobile-first interface."
+- Website stands out by offering a meticulously curated selection of films, from global blockbusters to indie gems. We focus on providing a smooth user experience with personalized recommendations that match your tastes. Plus, our exclusive features and commitment to quality ensure that every movie you watch is a memorable experience. Whether you’re exploring new genres or revisiting classics, we’ve got something special for every movie lover.
